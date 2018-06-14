@@ -1,10 +1,10 @@
 ﻿language: csharp
-solution: Sample.sln
+solution: AnonymousIncomeComparisonTool.sln
  
 install:
   - sudo apt-get install nunit-console
-  - nuget restore Sample.sln
+  - nuget restore AnonymousIncomeComparisonTool.sln
  
 script:
-  - xbuild Sample.sln
-  - nunit-console Sample.Tests/bin/Debug/Sample.Tests.dll
+  - xbuild AnonymousIncomeComparisonTool.sln
+  - nunit-console AnonymousIncomeComparisonTool.Tests/bin/Debug/AnonymousIncomeComparisonTool.Tests.dll
