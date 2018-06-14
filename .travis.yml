@@ -1,0 +1,10 @@
+﻿language: csharp
+solution: Sample.sln
+ 
+install:
+  - sudo apt-get install nunit-console
+  - nuget restore Sample.sln
+ 
+script:
+  - xbuild Sample.sln
+  - nunit-console Sample.Tests/bin/Debug/Sample.Tests.dll
