@@ -10,7 +10,7 @@ namespace AnonymousIncomeComparisonTool
     {
         public static void Main()
         {
-            
+
         }
     }
 }

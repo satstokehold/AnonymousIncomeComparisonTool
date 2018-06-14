@@ -1,6 +1,0 @@
-C:\Users\jesse\source\repos\TestingTestingTesting\AnonymousIncomeComparison\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe.config
-C:\Users\jesse\source\repos\TestingTestingTesting\AnonymousIncomeComparison\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.exe
-C:\Users\jesse\source\repos\TestingTestingTesting\AnonymousIncomeComparison\AnonymousIncomeApp\bin\Debug\AnonymousIncomeApp.pdb
-C:\Users\jesse\source\repos\TestingTestingTesting\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymouseIncomeComparisonTool.csproj.CoreCompileInputs.cache
-C:\Users\jesse\source\repos\TestingTestingTesting\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.exe
-C:\Users\jesse\source\repos\TestingTestingTesting\AnonymousIncomeComparison\AnonymousIncomeApp\obj\Debug\AnonymousIncomeApp.pdb
